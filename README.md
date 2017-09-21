@@ -5,3 +5,5 @@
 
 Personnel Blogs
 [anuragbishnoi](https://anuragbishnoi.wordpress.com/about/)
+
+[gaurish4math](https://gaurish4math.wordpress.com/)
